@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi 👋 I'm Lissa Simpson
+--------------------------------------------------------------------------------------------------------------------------------------------
+## A Front-End Developer passionate about User Experience from England
 
 <!--
 **lissasimp/lissasimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
