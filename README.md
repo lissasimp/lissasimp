@@ -1,5 +1,5 @@
-# Hi 👋 I'm Lissa Simpson
---------------------------------------------------------------------------------------------------------------------------------------------
+<h1 style="text-align: center;">Hi 👋 I'm Lissa Simpson</h3> 
+
 ## A Front-End Developer passionate about User Experience from England
 
 <!--
